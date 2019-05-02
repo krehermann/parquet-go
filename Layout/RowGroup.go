@@ -1,10 +1,10 @@
 package Layout
 
 import (
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/ParquetFile"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/krehermann/parquet-go/Common"
+	"github.com/krehermann/parquet-go/ParquetFile"
+	"github.com/krehermann/parquet-go/SchemaHandler"
+	"github.com/krehermann/parquet-go/parquet"
 )
 
 //RowGroup stores the RowGroup in parquet file

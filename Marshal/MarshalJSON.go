@@ -6,11 +6,11 @@ import (
 	"reflect"
 	"strings"
 
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Layout"
-	"github.com/xitongsys/parquet-go/ParquetType"
-	"github.com/xitongsys/parquet-go/SchemaHandler"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/krehermann/parquet-go/Common"
+	"github.com/krehermann/parquet-go/Layout"
+	"github.com/krehermann/parquet-go/ParquetType"
+	"github.com/krehermann/parquet-go/SchemaHandler"
+	"github.com/krehermann/parquet-go/parquet"
 )
 
 //ss is []string

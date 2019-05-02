@@ -5,11 +5,11 @@ import (
 	"reflect"
 
 	"github.com/apache/thrift/lib/go/thrift"
-	"github.com/xitongsys/parquet-go/Common"
-	"github.com/xitongsys/parquet-go/Compress"
-	"github.com/xitongsys/parquet-go/ParquetEncoding"
-	"github.com/xitongsys/parquet-go/ParquetType"
-	"github.com/xitongsys/parquet-go/parquet"
+	"github.com/krehermann/parquet-go/Common"
+	"github.com/krehermann/parquet-go/Compress"
+	"github.com/krehermann/parquet-go/ParquetEncoding"
+	"github.com/krehermann/parquet-go/ParquetType"
+	"github.com/krehermann/parquet-go/parquet"
 )
 
 type DictRecType struct {
