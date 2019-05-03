@@ -1,8 +1,8 @@
 
 [[constraint]]
   name = "github.com/apache/thrift"
- # revision = "24918abba929282"
-  version = "0.12.0"
+  revision = "24918abba929282"
+ # version = "0.12.0"
   source = "github.com/apache/thrift"
 
 
